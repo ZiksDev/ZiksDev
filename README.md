@@ -4,6 +4,14 @@
   Full-Stack Developer • Filmmaker • Creative Technologist
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+scalable+web+applications;Exploring+creative+storytelling;Creating+meaningful+digital+experiences&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:444444&section=header"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -20,22 +28,22 @@ Alongside development, I explore filmmaking as a way to tell meaningful and huma
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,java" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,react" />
 </p>
 
 ### 🗄️ Databases
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🧰 Tools & Technologies
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,maven" />
 </p>
 
@@ -48,23 +56,15 @@ Alongside development, I explore filmmaking as a way to tell meaningful and huma
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Contact
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiksDev&show_icons=true&theme=default" />
+  <a href="mailto:zakariaamor.za@gmail.com">zakariaamor.za@gmail.com</a>
 </p>
 
 ---
 
-## 🎯 Goals
-- Build reliable and scalable full-stack applications  
-- Strengthen backend architecture skills  
-- Combine technology with storytelling in meaningful ways  
-
----
-
-## 📫 Contact
 <p align="center">
-  <a href="mailto:zakariaamor.za@gmail.com">zakariaamor.za@gmail.com</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:444444,100:000000&section=footer"/>
 </p>
 
 ---
