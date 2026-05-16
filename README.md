@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Filmmaker;Creative+Thinker;Welcome+to+my+profile!&center=true&width=500&height=50">
+</p>
+
 # 👋 Hey, I'm Zenkaiyo
 
 🎬 Developer | 🎥 Filmmaker | 💡 Creative Thinker  
@@ -35,9 +39,10 @@
 ---
 
 ## 📫 Contact Me
-- 📧 your@email.com
+- 📧 zakariaamor.za@email.com
 
 ---
 
-## ⚡ Fun Fact
-I like silence more than noise 🌿
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiksDev&show_icons=true&theme=tokyonight)
