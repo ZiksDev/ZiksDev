@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hey, I'm Zenkaiyo
 
-<!--
-**ZiksDev/ZiksDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎬 Developer | 🎥 Filmmaker | 💡 Creative Thinker  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 I build web apps using PHP, Laravel & React
+- 🎥 I create films and documentaries
+- 🌱 Currently improving my coding & storytelling skills
+- 🧠 Working on projects that help people
+
+---
+
+## 🛠️ Tech Stack
+- 💻 HTML | CSS | JavaScript
+- ⚙️ PHP | Laravel
+- ⚛️ React
+- 🗄️ MySQL
+
+---
+
+## 📌 Projects
+- 🏨 Hotel Reservation System (PHP & MySQL)
+- 🎬 Film Projects & Short Movies
+- 🌐 Movie Website with Login System
+
+---
+
+## 🎯 Goals
+- 🚀 Become a full-stack developer
+- 🎥 Create meaningful films
+- 🌍 Build platforms that help people
+
+---
+
+## 📫 Contact Me
+- 📧 your@email.com
+
+---
+
+## ⚡ Fun Fact
+I like silence more than noise 🌿
