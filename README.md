@@ -6,7 +6,7 @@
 
 <br/>
 
-```
+<div align="center">
   whoami      Zakaria — developer building structured, scalable web systems.
               Alongside code, I explore film as a way to tell human stories.
 
@@ -14,7 +14,8 @@
   building →  Real-world web applications
   studying →  Advanced system design & architecture
   beyond  →   Cinematic storytelling & documentaries
-```
+  
+</div>
 
 <br/>
 
